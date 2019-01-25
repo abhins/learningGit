@@ -1,0 +1,23 @@
+the logic to calculate the offsets of currentbyte and lastbyte is buggy. There is no concept of stopping the calculation of the offsets and it goes beyond the filesize.
+i am on branch second, 2nd commit
+filesize = 107, num connections = 20
+Downloading 0-4 using conn. 0
+Downloading 5-10 using conn. 1
+Downloading 11-16 using conn. 2
+Downloading 17-22 using conn. 3
+Downloading 23-28 using conn. 4
+Downloading 29-34 using conn. 5
+Downloading 35-40 using conn. 6
+Downloading 41-46 using conn. 7
+Downloading 47-52 using conn. 8
+Downloading 53-58 using conn. 9
+Downloading 59-64 using conn. 10
+Downloading 65-70 using conn. 11
+Downloading 71-76 using conn. 12
+Downloading 77-82 using conn. 13
+Downloading 83-88 using conn. 14
+Downloading 89-94 using conn. 15
+Downloading 95-100 using conn. 16
+Downloading 101-106 using conn. 17
+Downloading 107-112 using conn. 18 (range beyond filesize)
+Downloading 113-106 using conn. 19 (range beyond filesize)
