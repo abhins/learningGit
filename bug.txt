@@ -5,6 +5,8 @@ change 01 on master
 change 02 on master
 change 03 on master; directly on github
 change 04 on master; directly on github
+change 05 on master; directly on github
+change 06 on master; directly on github
 change 01 on branch05
 change 02 on branch05
 Downloading 0-4 using conn. 0
