@@ -1,6 +1,7 @@
 the logic to calculate the offsets of currentbyte and lastbyte is buggy. There is no concept of stopping the calculation of the offsets and it goes beyond the filesize.
 i am on branch second, 2nd commit
 filesize = 107, num connections = 20
+change 01 on master
 Downloading 0-4 using conn. 0
 Downloading 5-10 using conn. 1
 Downloading 11-16 using conn. 2
