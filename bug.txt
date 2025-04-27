@@ -1,4 +1,1 @@
-first commit
-on master testing stash
-on new branch, testing fetch
-on branch in other workspace
+first commit - master - clone 01
