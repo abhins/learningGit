@@ -4,3 +4,4 @@ both branches
 $$$$
 ##
 somenew conflict
+let's conflict other
